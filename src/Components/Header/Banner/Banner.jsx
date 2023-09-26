@@ -9,7 +9,7 @@ const Banner = () => {
             <button className="btn btn-active btn-secondary ml-3">Search</button>
             </div>
             </div>
-            <img  className='h-[70vh] w-full ' src="/src/assets/image/Clothing.png" alt="" />
+            <img  className='h-[70vh] w-full ' src="src/assets/image/Clothing.png" alt="" />
          
         </div>
         
